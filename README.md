@@ -1,9 +1,9 @@
-### ¡Hi, my name is Mamen! 👋
+## ¡Hi, my name is Mamen! 👋
 
 I'm a **Junior Developer**, and I've recently finished my studies in **'Cross-platform Application Development'**.
 I believe that you always have to keep learning, so I never get tired of taking new courses and keep learning new skills as much as possible.
 
-##Skills:
+### Skills:
 - Java
 - Kotlin
 - SQL
@@ -20,17 +20,17 @@ In my GitHub, you can find mainly the projects I did during my HNC, and some per
 Hope you enjoy them!
 
 
-✨ Mamen ✨
+✨ **Mamen** ✨
 
-~~~
-~~~
+***
+***
 
-### ¡Hola, me llamo Mamen! 👋
+## ¡Hola, me llamo Mamen! 👋
 
 Soy una **Desarrolladora Junior** que acaba de finalizar sus estudios en 'Desarrollo de Aplicaciones Multiplataforma'.
 Creo que en este mundo siempre hay que seguir aprendiendo, por lo que nunca me canso de realizar cursos nuevos y seguir aprendiendo todo lo posible.
 
-##Skills:
+### Skills:
 - Java
 - Kotlin
 - SQL
@@ -46,7 +46,7 @@ Creo que en este mundo siempre hay que seguir aprendiendo, por lo que nunca me c
 En mi GitHub, principalmente podréis encontrar todos los proyectos que realicé durante el CFGS, además de otros personales.
 ¡Espero que los disfrutéis!
 
-✨ Mamen ✨
+✨ **Mamen** ✨
 
 <!--
 **mamenArias/mamenArias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
